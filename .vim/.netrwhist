@@ -1,4 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =2
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/root/alx-pre_course/0x01-git/bash'
 let g:netrw_dirhist_2='/alx-system_engineering-devops/0x02-shell_redirection'
 let g:netrw_dirhist_1='/alx-zero_day/0x03-git/bash/up_to_date'

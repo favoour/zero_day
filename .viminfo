@@ -15,19 +15,21 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1697233588,,"wq"
+|2,0,1702566524,,"wq"
+:WQ
+|2,0,1702480131,,"WQ"
+:set num
+|2,0,1700211296,,"set num"
+:set nu
+|2,0,1697676524,,"set nu"
 :zz
 |2,0,1697233362,,"zz"
-:set nu
-|2,0,1697232757,,"set nu"
 :set ni
 |2,0,1696959309,,"set ni"
 :x
 |2,0,1696954281,,"x"
 :ew
 |2,0,1696860435,,"ew"
-:WQ
-|2,0,1696608077,,"WQ"
 :q
 |2,0,1696529311,,"q"
 :q!
@@ -43,7 +45,7 @@ $
 
 # Search String History (newest to oldest):
 ? @$
-|2,1,1696296766,,"@$"
+|2,1,1698254685,,"@$"
 
 # Expression History (newest to oldest):
 
@@ -52,1082 +54,966 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-""-	CHAR	0
+"0	CHAR	0
 	-
-|3,1,36,0,1,0,1696348943,"-"
+|3,0,0,0,1,0,1698254685,"-"
+""-	CHAR	0
+	/
+|3,1,36,0,1,0,1700211457,"/"
 
 # File marks:
-'0  36  0  ~/alx-low_level_programming/0x03-debugging/3-print_remaining_days.c
-|4,48,36,0,1697233588,"~/alx-low_level_programming/0x03-debugging/3-print_remaining_days.c"
-'1  27  0  ~/alx-low_level_programming/0x03-debugging/2-largest_number.c
-|4,49,27,0,1697233480,"~/alx-low_level_programming/0x03-debugging/2-largest_number.c"
-'2  1  0  ~/alx-low_level_programming/0x03-debugging/2-largest_number.c,
-|4,50,1,0,1697233374,"~/alx-low_level_programming/0x03-debugging/2-largest_number.c,"
-'3  24  0  ~/alx-low_level_programming/0x03-debugging/1-main.c
-|4,51,24,0,1697233251,"~/alx-low_level_programming/0x03-debugging/1-main.c"
-'4  16  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,52,16,0,1697233142,"~/alx-low_level_programming/0x03-debugging/main.c"
-'5  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,53,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
-'6  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,54,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
-'7  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,55,11,18,1697232941,"~/alx-low_level_programming/0x03-debugging/main.h"
-'8  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,56,11,18,1697232941,"~/alx-low_level_programming/0x03-debugging/main.h"
-'9  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,57,11,18,1697232941,"~/alx-low_level_programming/0x03-debugging/main.h"
+'0  69  0  ~/simple_shell/_interactive.c
+|4,48,69,0,1702566524,"~/simple_shell/_interactive.c"
+'1  6  37  ~/simple_shell/AUTHORS
+|4,49,6,37,1702566065,"~/simple_shell/AUTHORS"
+'2  292  5  ~/simple_shell/shell.h
+|4,50,292,5,1702565212,"~/simple_shell/shell.h"
+'3  42  0  ~/simple_shell/main.c
+|4,51,42,0,1702565089,"~/simple_shell/main.c"
+'4  69  0  ~/simple_shell/_interactive.c
+|4,52,69,0,1702565017,"~/simple_shell/_interactive.c"
+'5  142  0  ~/simple_shell/fireshell.h
+|4,53,142,0,1702512508,"~/simple_shell/fireshell.h"
+'6  135  0  ~/simple_shell/env-builtins.c
+|4,54,135,0,1702511993,"~/simple_shell/env-builtins.c"
+'7  103  0  ~/simple_shell/builtins_helper.c
+|4,55,103,0,1702511938,"~/simple_shell/builtins_helper.c"
+'8  142  0  ~/simple_shell/fireshell.h
+|4,56,142,0,1702511305,"~/simple_shell/fireshell.h"
+'9  154  0  ~/simple_shell/builtins_alias.c
+|4,57,154,0,1702511003,"~/simple_shell/builtins_alias.c"
 
 # Jumplist (newest first):
--'  36  0  ~/alx-low_level_programming/0x03-debugging/3-print_remaining_days.c
-|4,39,36,0,1697233588,"~/alx-low_level_programming/0x03-debugging/3-print_remaining_days.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/3-print_remaining_days.c
-|4,39,1,0,1697233550,"~/alx-low_level_programming/0x03-debugging/3-print_remaining_days.c"
--'  27  0  ~/alx-low_level_programming/0x03-debugging/2-largest_number.c
-|4,39,27,0,1697233480,"~/alx-low_level_programming/0x03-debugging/2-largest_number.c"
--'  27  0  ~/alx-low_level_programming/0x03-debugging/2-largest_number.c
-|4,39,27,0,1697233480,"~/alx-low_level_programming/0x03-debugging/2-largest_number.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/2-largest_number.c
-|4,39,1,0,1697233433,"~/alx-low_level_programming/0x03-debugging/2-largest_number.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/2-largest_number.c
-|4,39,1,0,1697233433,"~/alx-low_level_programming/0x03-debugging/2-largest_number.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/2-largest_number.c,
-|4,39,1,0,1697233374,"~/alx-low_level_programming/0x03-debugging/2-largest_number.c,"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/2-largest_number.c,
-|4,39,1,0,1697233374,"~/alx-low_level_programming/0x03-debugging/2-largest_number.c,"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/2-largest_number.c,
-|4,39,1,0,1697233374,"~/alx-low_level_programming/0x03-debugging/2-largest_number.c,"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/2-largest_number.c,
-|4,39,1,0,1697233374,"~/alx-low_level_programming/0x03-debugging/2-largest_number.c,"
--'  24  0  ~/alx-low_level_programming/0x03-debugging/1-main.c
-|4,39,24,0,1697233251,"~/alx-low_level_programming/0x03-debugging/1-main.c"
--'  24  0  ~/alx-low_level_programming/0x03-debugging/1-main.c
-|4,39,24,0,1697233251,"~/alx-low_level_programming/0x03-debugging/1-main.c"
--'  24  0  ~/alx-low_level_programming/0x03-debugging/1-main.c
-|4,39,24,0,1697233251,"~/alx-low_level_programming/0x03-debugging/1-main.c"
--'  24  0  ~/alx-low_level_programming/0x03-debugging/1-main.c
-|4,39,24,0,1697233251,"~/alx-low_level_programming/0x03-debugging/1-main.c"
--'  24  0  ~/alx-low_level_programming/0x03-debugging/1-main.c
-|4,39,24,0,1697233251,"~/alx-low_level_programming/0x03-debugging/1-main.c"
--'  24  0  ~/alx-low_level_programming/0x03-debugging/1-main.c
-|4,39,24,0,1697233251,"~/alx-low_level_programming/0x03-debugging/1-main.c"
--'  24  0  ~/alx-low_level_programming/0x03-debugging/1-main.c
-|4,39,24,0,1697233251,"~/alx-low_level_programming/0x03-debugging/1-main.c"
--'  24  0  ~/alx-low_level_programming/0x03-debugging/1-main.c
-|4,39,24,0,1697233251,"~/alx-low_level_programming/0x03-debugging/1-main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/1-main.c
-|4,39,1,0,1697233230,"~/alx-low_level_programming/0x03-debugging/1-main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/1-main.c
-|4,39,1,0,1697233230,"~/alx-low_level_programming/0x03-debugging/1-main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/1-main.c
-|4,39,1,0,1697233230,"~/alx-low_level_programming/0x03-debugging/1-main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/1-main.c
-|4,39,1,0,1697233230,"~/alx-low_level_programming/0x03-debugging/1-main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/1-main.c
-|4,39,1,0,1697233230,"~/alx-low_level_programming/0x03-debugging/1-main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/1-main.c
-|4,39,1,0,1697233230,"~/alx-low_level_programming/0x03-debugging/1-main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/1-main.c
-|4,39,1,0,1697233230,"~/alx-low_level_programming/0x03-debugging/1-main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/1-main.c
-|4,39,1,0,1697233230,"~/alx-low_level_programming/0x03-debugging/1-main.c"
--'  16  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,16,0,1697233142,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  16  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,16,0,1697233142,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  16  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,16,0,1697233142,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  16  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,16,0,1697233142,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  16  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,16,0,1697233142,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  16  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,16,0,1697233142,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  16  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,16,0,1697233142,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  16  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,16,0,1697233142,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  16  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,16,0,1697233142,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  16  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,16,0,1697233142,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  16  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,16,0,1697233142,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  16  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,16,0,1697233142,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  16  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,16,0,1697233142,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  16  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,16,0,1697233142,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  16  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,16,0,1697233142,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  16  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,16,0,1697233142,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,1,0,1697233117,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,1,0,1697233117,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,1,0,1697233117,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,1,0,1697233117,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,1,0,1697233117,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,1,0,1697233117,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,1,0,1697233117,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,1,0,1697233117,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,1,0,1697233117,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,1,0,1697233117,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,1,0,1697233117,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,1,0,1697233117,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,1,0,1697233117,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,1,0,1697233117,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,1,0,1697233117,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  1  0  ~/alx-low_level_programming/0x03-debugging/main.c
-|4,39,1,0,1697233117,"~/alx-low_level_programming/0x03-debugging/main.c"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  3  0  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,3,0,1697232997,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232954,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232941,"~/alx-low_level_programming/0x03-debugging/main.h"
--'  11  18  ~/alx-low_level_programming/0x03-debugging/main.h
-|4,39,11,18,1697232941,"~/alx-low_level_programming/0x03-debugging/main.h"
+-'  69  0  ~/simple_shell/_interactive.c
+|4,39,69,0,1702566524,"~/simple_shell/_interactive.c"
+-'  1  0  ~/simple_shell/_interactive.c
+|4,39,1,0,1702566500,"~/simple_shell/_interactive.c"
+-'  6  37  ~/simple_shell/AUTHORS
+|4,39,6,37,1702566065,"~/simple_shell/AUTHORS"
+-'  6  37  ~/simple_shell/AUTHORS
+|4,39,6,37,1702566065,"~/simple_shell/AUTHORS"
+-'  1  0  ~/simple_shell/AUTHORS
+|4,39,1,0,1702566023,"~/simple_shell/AUTHORS"
+-'  1  0  ~/simple_shell/AUTHORS
+|4,39,1,0,1702566023,"~/simple_shell/AUTHORS"
+-'  292  5  ~/simple_shell/shell.h
+|4,39,292,5,1702565212,"~/simple_shell/shell.h"
+-'  292  5  ~/simple_shell/shell.h
+|4,39,292,5,1702565212,"~/simple_shell/shell.h"
+-'  292  5  ~/simple_shell/shell.h
+|4,39,292,5,1702565212,"~/simple_shell/shell.h"
+-'  292  5  ~/simple_shell/shell.h
+|4,39,292,5,1702565212,"~/simple_shell/shell.h"
+-'  1  0  ~/simple_shell/shell.h
+|4,39,1,0,1702565169,"~/simple_shell/shell.h"
+-'  1  0  ~/simple_shell/shell.h
+|4,39,1,0,1702565169,"~/simple_shell/shell.h"
+-'  1  0  ~/simple_shell/shell.h
+|4,39,1,0,1702565169,"~/simple_shell/shell.h"
+-'  1  0  ~/simple_shell/shell.h
+|4,39,1,0,1702565169,"~/simple_shell/shell.h"
+-'  42  0  ~/simple_shell/main.c
+|4,39,42,0,1702565089,"~/simple_shell/main.c"
+-'  42  0  ~/simple_shell/main.c
+|4,39,42,0,1702565089,"~/simple_shell/main.c"
+-'  42  0  ~/simple_shell/main.c
+|4,39,42,0,1702565089,"~/simple_shell/main.c"
+-'  42  0  ~/simple_shell/main.c
+|4,39,42,0,1702565089,"~/simple_shell/main.c"
+-'  42  0  ~/simple_shell/main.c
+|4,39,42,0,1702565089,"~/simple_shell/main.c"
+-'  42  0  ~/simple_shell/main.c
+|4,39,42,0,1702565089,"~/simple_shell/main.c"
+-'  42  0  ~/simple_shell/main.c
+|4,39,42,0,1702565089,"~/simple_shell/main.c"
+-'  42  0  ~/simple_shell/main.c
+|4,39,42,0,1702565089,"~/simple_shell/main.c"
+-'  1  0  ~/simple_shell/main.c
+|4,39,1,0,1702565073,"~/simple_shell/main.c"
+-'  1  0  ~/simple_shell/main.c
+|4,39,1,0,1702565073,"~/simple_shell/main.c"
+-'  1  0  ~/simple_shell/main.c
+|4,39,1,0,1702565073,"~/simple_shell/main.c"
+-'  1  0  ~/simple_shell/main.c
+|4,39,1,0,1702565073,"~/simple_shell/main.c"
+-'  1  0  ~/simple_shell/main.c
+|4,39,1,0,1702565073,"~/simple_shell/main.c"
+-'  1  0  ~/simple_shell/main.c
+|4,39,1,0,1702565073,"~/simple_shell/main.c"
+-'  1  0  ~/simple_shell/main.c
+|4,39,1,0,1702565073,"~/simple_shell/main.c"
+-'  1  0  ~/simple_shell/main.c
+|4,39,1,0,1702565073,"~/simple_shell/main.c"
+-'  69  0  ~/simple_shell/_interactive.c
+|4,39,69,0,1702565017,"~/simple_shell/_interactive.c"
+-'  69  0  ~/simple_shell/_interactive.c
+|4,39,69,0,1702565017,"~/simple_shell/_interactive.c"
+-'  69  0  ~/simple_shell/_interactive.c
+|4,39,69,0,1702565017,"~/simple_shell/_interactive.c"
+-'  69  0  ~/simple_shell/_interactive.c
+|4,39,69,0,1702565017,"~/simple_shell/_interactive.c"
+-'  69  0  ~/simple_shell/_interactive.c
+|4,39,69,0,1702565017,"~/simple_shell/_interactive.c"
+-'  69  0  ~/simple_shell/_interactive.c
+|4,39,69,0,1702565017,"~/simple_shell/_interactive.c"
+-'  69  0  ~/simple_shell/_interactive.c
+|4,39,69,0,1702565017,"~/simple_shell/_interactive.c"
+-'  69  0  ~/simple_shell/_interactive.c
+|4,39,69,0,1702565017,"~/simple_shell/_interactive.c"
+-'  1  0  ~/simple_shell/_interactive.c
+|4,39,1,0,1702564998,"~/simple_shell/_interactive.c"
+-'  1  0  ~/simple_shell/_interactive.c
+|4,39,1,0,1702564998,"~/simple_shell/_interactive.c"
+-'  1  0  ~/simple_shell/_interactive.c
+|4,39,1,0,1702564998,"~/simple_shell/_interactive.c"
+-'  1  0  ~/simple_shell/_interactive.c
+|4,39,1,0,1702564998,"~/simple_shell/_interactive.c"
+-'  1  0  ~/simple_shell/_interactive.c
+|4,39,1,0,1702564998,"~/simple_shell/_interactive.c"
+-'  1  0  ~/simple_shell/_interactive.c
+|4,39,1,0,1702564998,"~/simple_shell/_interactive.c"
+-'  1  0  ~/simple_shell/_interactive.c
+|4,39,1,0,1702564998,"~/simple_shell/_interactive.c"
+-'  1  0  ~/simple_shell/_interactive.c
+|4,39,1,0,1702564998,"~/simple_shell/_interactive.c"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  142  0  ~/simple_shell/fireshell.h
+|4,39,142,0,1702512508,"~/simple_shell/fireshell.h"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
+-'  135  0  ~/simple_shell/env-builtins.c
+|4,39,135,0,1702511993,"~/simple_shell/env-builtins.c"
 
 # History of marks within files (newest to oldest):
 
-> ~/alx-low_level_programming/0x03-debugging/3-print_remaining_days.c
-	*	1697233584	0
-	"	36	0
-	^	36	1
-	.	36	0
-	+	36	0
+> ~/simple_shell/_interactive.c
+	*	1702566519	0
+	"	69	0
+	^	69	1
+	.	69	0
+	+	69	0
+	+	69	1
+	+	69	0
 
-> ~/alx-low_level_programming/0x03-debugging/2-largest_number.c
-	*	1697233469	0
-	"	27	0
-	^	27	1
-	.	27	1
-	+	27	1
+> ~/simple_shell/AUTHORS
+	*	1702566061	0
+	"	6	37
+	^	7	0
+	.	6	38
+	+	6	37
+	+	5	0
+	+	1	79
+	+	1	53
+	+	4	0
+	+	6	38
 
-> ~/alx-low_level_programming/0x03-debugging/2-largest_number.c,
-	*	1697233373	0
+> ~/simple_shell/shell.h
+	*	1702565209	0
+	"	292	5
+	^	292	6
+	.	292	5
+	+	235	5
+	+	292	5
+	+	292	6
+	+	292	5
+
+> ~/simple_shell/main.c
+	*	1702565084	0
+	"	42	0
+	^	42	1
+	.	42	0
+	+	44	0
+	+	42	0
+	+	42	1
+	+	42	0
+
+> ~/simple_shell/fireshell.h
+	*	1702512505	0
+	"	142	0
+	^	142	0
+	.	141	24
+	+	141	24
+
+> ~/simple_shell/env-builtins.c
+	*	1702511990	0
+	"	135	0
+	^	135	0
+	.	134	1
+	+	134	0
+	+	134	1
+
+> ~/simple_shell/builtins_helper.c
+	*	1702511936	0
+	"	103	0
+	^	103	0
+	.	102	1
+	+	102	0
+	+	102	1
+
+> ~/simple_shell/builtins_alias.c
+	*	1702510999	0
+	"	154	0
+	^	154	0
+	.	153	1
+	+	153	0
+	+	153	1
+
+> ~/simple_shell/builtin_helpers_two.c
+	*	1702510945	0
+	"	47	0
+	^	47	0
+	.	46	1
+	+	46	0
+	+	46	1
+
+> ~/simple_shell/builtin.c
+	*	1702510889	0
+	"	195	0
+	^	195	0
+	.	194	1
+	+	193	0
+	+	97	0
+	+	2	0
+	+	194	1
+
+> ~/simple_shell/FireShell.c
+	*	1702510852	0
+	"	137	0
+	^	137	1
+	.	137	0
+	+	137	0
+
+> ~/simple_shell/environment.c
+	*	1702510656	0
+	"	88	0
+	^	88	0
+	.	87	1
+	+	87	0
+	+	87	1
+
+> ~/simple_shell/README.md
+	*	1702510401	0
 	"	1	0
-	^	1	0
-	.	1	0
-	+	1	0
 
-> ~/alx-low_level_programming/0x03-debugging/1-main.c
-	*	1697233249	0
-	"	24	0
-	^	24	1
-	.	24	0
-	+	24	0
+> ~/simple_shell/obtain_info.c
+	*	1702505472	0
+	"	74	0
+	^	74	0
+	.	73	1
+	+	73	1
 
-> ~/alx-low_level_programming/0x03-debugging/main.c
-	*	1697233138	0
-	"	16	0
-	^	16	1
-	.	16	0
-	+	16	0
+> ~/simple_shell/loop.c
+	*	1702505183	0
+	"	161	0
+	^	161	0
+	.	160	1
+	+	160	1
 
-> ~/alx-low_level_programming/0x03-debugging/main.h
-	*	1697232989	0
-	"	3	0
-	^	11	19
-	.	11	18
-	+	1	211
-	+	11	18
+> ~/simple_shell/get_environment.c
+	*	1702505088	0
+	"	90	0
+	^	90	0
+	.	90	0
+	+	90	0
 
-> ~/alx-low_level_programming/0x03-debugging/0-main.c
-	*	1697232565	0
-	"	16	0
-	^	16	1
-	.	16	0
-	+	16	0
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/101-print_number.c
-	*	1697123459	0
-	"	28	0
-	^	28	1
-	.	28	0
-	+	28	0
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/100-prime_factor.c
-	*	1697123340	0
-	"	30	0
-	^	30	1
-	.	30	0
-	+	30	0
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/10-print_triangle.c
-	*	1697122535	0
-	"	32	0
-	^	32	1
-	.	32	0
-	+	32	0
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/9-fizz_buzz.c
-	*	1697122445	0
-	"	34	0
-	^	34	1
-	.	34	0
-	+	34	0
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/8-print_square.c
-	*	1697122326	0
-	"	31	0
-	^	31	1
-	.	31	1
-	+	31	1
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/7-print_diagonal.c
-	*	1697122100	0
-	"	32	0
-	^	32	1
-	.	32	0
-	+	32	0
-
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/6-print_line.c
-	*	1697121982	0
-	"	17	0
-	^	17	1
+> ~/simple_shell/free_memory.c
+	*	1702505009	0
+	"	18	0
+	^	18	0
 	.	17	1
 	+	17	1
 
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/5-more_numbers.c
-	*	1697121873	0
-	"	26	0
-	^	26	0
-	.	26	0
-	+	26	0
+> ~/simple_shell/exit1.c
+	*	1702504970	0
+	"	111	0
+	^	111	1
+	.	111	0
+	+	111	0
 
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/4-print_most_numbers.c
-	*	1697121796	0
-	"	23	0
-	^	23	1
-	.	23	0
-	+	23	0
+> ~/simple_shell/exit.c
+	*	1702504903	0
+	"	94	0
+	^	94	0
+	.	93	1
+	+	93	1
 
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/3-print_numbers.c
-	*	1697121684	0
-	"	20	0
-	^	20	1
-	.	20	0
-	+	20	0
+> ~/simple_shell/error_handle1.c
+	*	1702504858	0
+	"	136	0
+	^	136	1
+	.	136	0
+	+	136	0
 
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/2-mul.c
-	*	1697121583	0
-	"	13	0
-	^	13	1
-	.	13	0
-	+	13	0
+> ~/simple_shell/error_handle.c
+	*	1702504167	0
+	"	81	0
+	^	81	1
+	.	81	0
+	+	81	0
 
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/1-isdigit.c
-	*	1697121506	0
-	"	16	0
-	^	16	0
-	.	16	0
-	+	16	0
+> ~/simple_shell/simple_shell
+	*	1702483653	0
+	"	68	0
+	^	68	1
+	.	68	0
+	+	68	0
 
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/0-isupper.c
-	*	1697121383	0
+> ~/simple_shell/test1.c
+	*	1702483383	0
+	"	73	0
+	^	73	0
+	.	72	1
+	+	72	1
+
+> ~/simple_shell/test.c
+	*	1702482852	0
+	"	1	1
+	^	67	2
+	.	68	0
+	+	67	1
+	+	68	0
+
+> ~/simple_shell/vars.c
+	*	1702480624	0
+	"	154	0
+	^	154	1
+	.	154	0
+	+	154	0
+
+> ~/simple_shell/tokenizer.c
+	*	1702480597	0
+	"	94	0
+	^	94	1
+	.	94	0
+	+	94	0
+
+> ~/simple_shell/string1.c
+	*	1702480552	0
+	"	87	0
+	^	87	1
+	.	87	0
+	+	87	0
+
+> ~/simple_shell/string.c
+	*	1702480512	0
+	"	75	0
+	^	75	1
+	.	75	0
+	+	75	0
+
+> ~/simple_shell/shell_loop.c
+	*	1702480361	0
+	"	160	0
+	^	160	1
+	.	160	0
+	+	160	0
+
+> ~/simple_shell/realloc.c
+	*	1702480237	0
+	"	62	0
+	^	62	1
+	.	62	0
+	+	62	0
+
+> ~/simple_shell/parser.c
+	*	1702480205	0
+	"	86	0
+	^	86	1
+	.	86	0
+	+	86	0
+
+> ~/simple_shell/memory.c
+	*	1702480169	0
 	"	18	0
 	^	18	1
 	.	18	0
 	+	18	0
 
-> ~/alx-low_level_programming/0x04-more_functions_nested_loops/main.h
-	*	1697121337	0
-	"	23	18
-	^	23	19
-	.	23	18
-	+	23	18
+> ~/simple_shell/lists1.c
+	*	1702480092	0
+	"	122	0
+	^	122	1
+	.	122	0
+	+	122	0
 
-> ~/alx-low_level_programming/0x02-functions_nested_loops/104-fibonacci.c
-	*	1697070017	0
-	"	39	0
-	^	39	1
-	.	39	0
-	+	39	0
+> ~/simple_shell/lists.c
+	*	1702480059	0
+	"	159	0
+	^	159	1
+	.	159	0
+	+	159	0
 
-> ~/alx-low_level_programming/0x02-functions_nested_loops/103-fibonacci.c
-	*	1697069936	0
-	"	31	0
-	^	31	1
-	.	32	0
-	+	32	0
+> ~/simple_shell/history.c
+	*	1702480029	0
+	"	143	0
+	^	143	1
+	.	143	0
+	+	143	0
 
-> ~/alx-low_level_programming/0x02-functions_nested_loops/102-fibonacci.c
-	*	1697069859	0
-	"	28	0
-	^	28	1
-	.	28	0
-	+	28	0
+> ~/simple_shell/getline.c
+	*	1702479996	0
+	"	170	0
+	^	170	1
+	.	170	0
+	+	170	0
 
-> ~/alx-low_level_programming/0x02-functions_nested_loops/101-natural.c
-	*	1697069781	0
-	"	26	0
-	^	26	1
-	.	26	0
-	+	26	0
+> ~/simple_shell/getinfo.c
+	*	1702479955	0
+	"	74	0
+	^	74	1
+	.	74	0
+	+	74	0
 
-> ~/alx-low_level_programming/0x02-functions_nested_loops/100-times_table.c
-	*	1697069681	0
-	"	51	0
-	^	51	0
-	.	51	0
-	+	1	859
-	+	1	17
-	+	51	0
+> ~/simple_shell/getenv.c
+	*	1702479914	0
+	"	93	0
+	^	93	1
+	.	93	0
+	+	93	0
 
-> ~/zero_day/0x00-vagrant/0-hello_ubuntu
-	*	1697068446	0
-	"	1	4
-	^	1	5
-	.	1	4
-	+	1	4
+> ~/simple_shell/exits.c
+	*	1702479879	0
+	"	74	0
+	^	74	1
+	.	74	0
+	+	74	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/3-listfiles
-	*	1697066435	0
-	"	1	10
-	^	1	11
-	.	2	4
-	+	1	11
-	+	2	4
+> ~/simple_shell/errors1.c
+	*	1702479843	0
+	"	140	0
+	^	140	1
+	.	140	0
+	+	140	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/school
-	*	1697066265	0
-	"	2	12
-	^	2	13
-	.	2	12
-	+	2	12
+> ~/simple_shell/errors.c
+	*	1702479803	0
+	"	85	0
+	^	85	1
+	.	85	0
+	+	85	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/school.mgc
-	*	1697065676	0
-	"	2	27
-	^	2	28
-	.	2	27
-	+	2	27
+> ~/simple_shell/environ.c
+	*	1702479764	0
+	"	92	0
+	^	92	1
+	.	92	0
+	+	92	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/103-commas
-	*	1697065536	0
-	"	2	16
-	^	2	17
-	.	2	16
-	+	2	16
+> ~/simple_shell/builtin1.c
+	*	1702479735	0
+	"	115	0
+	^	115	1
+	.	115	0
+	+	115	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/102-tree
-	*	1697065433	0
-	"	2	25
-	^	2	26
-	.	2	25
-	+	2	25
+> ~/simple_shell/_atoi.c
+	*	1702479628	0
+	"	74	0
+	^	74	1
+	.	74	0
+	+	74	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/101-clean_emacs
-	*	1697065283	0
-	"	2	4
-	^	2	5
-	.	2	4
-	+	2	4
+> ~/simple_shell/err_msgs.c
+	*	1702476078	0
+	"	74	0
+	^	74	1
+	.	74	0
+	+	74	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/100-lets_move
-	*	1697065156	0
-	"	1	10
-	^	1	11
-	.	2	21
-	+	2	21
+> ~/simple_shell/err_mgs.c
+	*	1702476032	0
+	"	172	0
+	^	172	1
+	.	172	0
+	+	172	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/14-copy_html
-	*	1697065020	0
-	"	2	17
-	^	2	18
-	.	2	17
-	+	2	17
+> ~/simple_shell/err.c
+	*	1702476001	0
+	"	117	0
+	^	117	1
+	.	117	0
+	+	117	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/13-symbolic_link
-	*	1697064898	0
-	"	1	10
-	^	1	11
-	.	2	19
-	+	2	19
+> ~/simple_shell/env.c
+	*	1702475934	0
+	"	76	0
+	^	76	1
+	.	76	0
+	+	76	0
 
-> ~/alx-system_engineering-devops/0x00-shell_basics/11-lists
-	*	1697064663	0
-	"	2	16
-	^	2	17
-	.	2	17
-	+	2	17
+> ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
+	*	1701102890	0
+	"	314	0
+	^	314	1
+	.	314	0
+	+	314	0
 
-> ~/alx-system_engineering-devops/0x01-shell_permissions/103-Star_Wars
-	*	1697063720	0
-	"	2	28
-	^	2	29
-	.	2	28
-	+	2	28
+> ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+	*	1701102833	0
+	"	33	0
+	^	33	1
+	.	33	0
+	+	33	0
 
-> ~/alx-system_engineering-devops/0x01-shell_permissions/102-if_only
-	*	1697063610	0
-	"	2	33
-	^	2	34
-	.	2	33
-	+	2	33
+> ~/alx-low_level_programming/0x15-file_io/0-read_textfile.c
+	*	1701102777	0
+	"	38	0
+	^	38	1
+	.	38	0
+	+	38	0
 
-> ~/alx-system_engineering-devops/0x01-shell_permissions/101-symbolic_link_permissions
-	*	1697063497	0
-	"	2	28
-	^	2	29
-	.	2	28
-	+	2	28
+> ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+	*	1701102754	0
+	"	34	0
+	^	34	1
+	.	34	0
+	+	34	0
 
-> ~/alx-system_engineering-devops/0x01-shell_permissions/100-change_owner_and_group
-	*	1697063298	0
-	"	2	20
-	^	2	21
-	.	2	20
-	+	2	20
+> ~/alx-low_level_programming/0x15-file_io/3-cp.c
+	*	1701102713	0
+	"	101	0
+	^	101	1
+	.	101	0
+	+	101	0
 
-> ~/alx-system_engineering-devops/0x01-shell_permissions/13-change_group
-	*	1697063151	0
-	"	2	17
-	^	2	18
-	.	2	17
-	+	2	17
+> ~/alx-low_level_programming/0x15-file_io/main.h
+	*	1701102658	0
+	"	16	5
+	^	16	6
+	.	16	5
+	+	16	5
 
-> ~/alx-system_engineering-devops/0x01-shell_permissions/12-directory_permissions
-	*	1697062825	0
-	"	2	17
-	^	2	18
-	.	2	17
-	+	2	17
+> ~/alx-low_level_programming/0x14-bit_manipulation/main.h
+	*	1700800571	0
+	"	17	18
+	^	17	19
+	.	17	18
+	+	17	18
 
-> ~/alx-system_engineering-devops/0x01-shell_permissions/11-directories_permissions
-	*	1697062724	0
-	"	2	12
-	^	2	13
-	.	2	12
-	+	2	12
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/10-mirror_permissions
-	*	1697062535	0
-	"	2	28
-	^	2	29
-	.	2	28
-	+	1	11
-	+	2	28
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/9-John_Doe
-	*	1697062024	0
-	"	2	14
-	^	2	15
-	.	2	14
-	+	2	14
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/8-James_Bond
-	*	1697061916	0
-	"	2	14
-	^	2	15
-	.	3	0
-	+	3	0
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/6-multiple_permissions
-	*	1697061541	0
-	"	2	19
-	^	2	20
-	.	2	19
-	+	1	11
-	+	2	19
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/7-everybody
-	*	1697044880	0
-	"	2	14
-	^	2	15
-	.	2	14
-	+	2	14
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/5-execute
-	*	1697044674	0
-	"	2	0
-	^	2	15
-	.	2	14
-	+	2	14
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/4-empty
-	*	1697044576	0
-	"	2	10
-	^	2	11
-	.	2	10
-	+	2	10
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/3-new_owner
-	*	1697044504	0
-	"	2	16
-	^	2	17
-	.	3	0
-	+	3	0
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/2-groups
-	*	1697044402	0
-	"	2	5
-	^	2	6
-	.	2	5
-	+	2	5
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/1-who_am_i
-	*	1697044311	0
-	"	2	5
-	^	2	6
-	.	2	5
-	+	2	5
-
-> ~/alx-system_engineering-devops/0x01-shell_permissions/0-iam_betty
-	*	1697044194	0
-	"	2	7
-	^	2	8
-	.	2	7
-	+	2	7
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/103-water_and_stir
-	*	1697043846	0
-	"	2	135
-	^	2	136
-	.	2	135
-	+	2	135
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/102-odd
-	*	1697043757	0
-	"	2	31
-	^	2	32
-	.	2	31
-	+	2	31
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/101-rot13
-	*	1697043668	0
-	"	2	25
-	^	2	26
-	.	2	25
-	+	2	25
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/100-decimal_to_hexadecimal
-	*	1697043573	0
-	"	2	23
-	^	2	24
-	.	2	23
-	+	2	23
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/13-print_float
-	*	1697043464	0
-	"	2	21
-	^	2	22
-	.	2	21
-	+	2	21
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/12-combinations
-	*	1697043341	0
-	"	2	49
-	^	2	50
-	.	2	49
-	+	2	49
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/11-binary_to_decimal
-	*	1697043167	0
-	"	2	18
-	^	2	19
-	.	2	18
-	+	2	18
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/10-love_exponent_breath
-	*	1697043086	0
-	"	2	0
-	^	2	0
-	.	2	22
-	+	2	22
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/9-divide_and_rule
-	*	1697042967	0
-	"	2	23
-	^	2	24
-	.	2	23
-	+	2	23
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/8-true_knowledge
-	*	1697042825	0
-	"	2	29
-	^	2	30
-	.	2	29
-	+	2	29
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/7-create_global_variable
-	*	1697042739	0
-	"	2	19
-	^	2	20
-	.	2	19
-	+	2	19
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/6-create_local_variable
-	*	1697042652	0
-	"	2	12
-	^	2	13
-	.	2	12
-	+	2	12
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/4-global_variables
-	*	1697042510	0
-	"	2	7
-	^	2	8
-	.	2	7
-	+	2	7
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/5-local_variables
-	*	1697042325	0
-	"	2	2
-	^	2	3
-	.	2	2
-	+	2	2
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/3-paths
-	*	1697042129	0
-	"	2	30
-	^	2	31
-	.	2	30
-	+	2	30
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/2-path
-	*	1697042045	0
-	"	2	26
-	^	2	27
-	.	2	27
-	+	2	27
-
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/1-hello_you
-	*	1697041920	0
-	"	2	15
-	^	2	16
-	.	2	15
-	+	2	15
-
-> ~/alx-low_level_programming/0x02-functions_nested_loops/_putchar.c
-	*	1697040814	0
-	"	12	0
-	^	12	1
-	.	12	0
-	+	12	0
-
-> ~/alx-low_level_programming/0x02-functions_nested_loops/11-print_to_98.c
-	*	1697039935	0
+> ~/alx-low_level_programming/0x14-bit_manipulation/5-flip_bits.c
+	*	1700800543	0
 	"	23	0
 	^	23	1
 	.	23	0
 	+	23	0
 
-> ~/alx-low_level_programming/0x02-functions_nested_loops/10-add.c
-	*	1697039841	0
-	"	14	0
-	^	14	1
-	.	14	0
-	+	14	0
-
-> ~/alx-low_level_programming/0x02-functions_nested_loops/9-times_table.c
-	*	1697039748	0
-	"	50	0
-	^	50	1
-	.	50	0
-	+	50	0
-
-> ~/alx-low_level_programming/0x02-functions_nested_loops/8-24_hours.c
-	*	1697039685	0
-	"	49	0
-	^	49	1
-	.	49	1
-	+	49	1
-
-> ~/alx-low_level_programming/0x02-functions_nested_loops/7-print_last_digit.c
-	*	1697039621	0
-	"	22	0
-	^	22	1
-	.	22	0
-	+	22	0
-
-> ~/alx-low_level_programming/0x02-functions_nested_loops/6-abs.c
-	*	1697039563	0
+> ~/alx-low_level_programming/0x14-bit_manipulation/4-clear_bit.c
+	*	1700800405	0
 	"	20	0
 	^	20	1
 	.	20	0
 	+	20	0
 
-> ~/alx-low_level_programming/0x02-functions_nested_loops/5-sign.c
-	*	1697039475	0
-	"	26	0
-	^	26	1
-	.	26	0
-	+	26	0
+> ~/alx-low_level_programming/0x14-bit_manipulation/3-set_bit.c
+	*	1700800369	0
+	"	20	0
+	^	20	1
+	.	20	0
+	+	20	0
 
-> ~/alx-low_level_programming/0x02-functions_nested_loops/4-isalpha.c
-	*	1697039327	0
+> ~/alx-low_level_programming/0x14-bit_manipulation/2-get_bit.c
+	*	1700800337	0
+	"	17	0
+	^	17	1
+	.	17	0
+	+	17	0
+
+> ~/alx-low_level_programming/0x14-bit_manipulation/101-password
+	*	1700800306	0
+	"	1	3
+	^	1	4
+	.	1	3
+	+	1	3
+
+> ~/alx-low_level_programming/0x14-bit_manipulation/100-get_endianness.c
+	*	1700800260	0
+	"	14	0
+	^	14	1
+	.	14	0
+	+	14	0
+
+> ~/alx-low_level_programming/0x14-bit_manipulation/1-print_binary.c
+	*	1700800233	0
+	"	37	0
+	^	37	1
+	.	37	0
+	+	37	0
+
+> ~/alx-low_level_programming/0x14-bit_manipulation/0-binary_to_uint.c
+	*	1700800198	0
+	"	31	0
+	^	31	1
+	.	31	0
+	+	31	0
+
+> ~/alx-low_level_programming/main.c
+	*	1700528408	0
+	"	2	0
+	^	2	0
+	.	1	5
+	+	1	5
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/101-print_listint_safe.c
+	*	1700527868	0
+	"	88	0
+	^	88	1
+	.	88	0
+	+	1	466
+	+	1	438
+	+	88	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/7-get_nodeint.c
+	*	1700527680	0
+	"	22	0
+	^	22	1
+	.	22	0
+	+	1	620
+	+	1	553
+	+	1	403
+	+	1	18
+	+	1	620
+	+	22	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/3-add_nodeint_end.c
+	*	1700501236	0
+	"	34	0
+	^	34	1
+	.	34	0
+	+	1	524
+	+	34	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/9-insert_nodeint.c
+	*	1700501001	0
+	"	48	0
+	^	48	1
+	.	48	0
+	+	48	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/8-sum_listint.c
+	*	1700500967	0
 	"	19	0
 	^	19	1
 	.	19	0
 	+	19	0
 
-> ~/alx-low_level_programming/0x02-functions_nested_loops/3-islower.c
-	*	1697039187	0
-	"	19	0
-	^	19	1
-	.	19	0
-	+	1	170
-	+	1	17
-	+	1	186
-	+	1	167
-	+	1	199
-	+	1	17
-	+	1	2
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/6-pop_listint.c
+	*	1700500881	0
+	"	24	0
+	^	24	1
+	.	24	0
+	+	24	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/5-free_listint2.c
+	*	1700500860	0
+	"	22	0
+	^	22	1
+	.	22	0
+	+	22	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/4-free_listint.c
+	*	1700500827	0
+	"	18	0
+	^	18	1
+	.	18	0
+	+	18	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/2-add_nodeint.c
+	*	1700500760	0
+	"	31	0
+	^	31	1
+	.	31	0
+	+	31	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/103-find_loop.c
+	*	1700500641	0
+	"	34	0
+	^	34	1
+	.	34	0
+	+	1	18
+	+	34	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/102-free_listint_safe.c
+	*	1700500613	0
+	"	41	0
+	^	41	1
+	.	41	0
+	+	41	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/100-reverse_listint.c
+	*	1700500575	0
+	"	25	0
+	^	25	1
+	.	25	0
+	+	25	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/10-delete_nodeint.c
+	*	1700500521	0
+	"	38	0
+	^	38	1
+	.	38	0
+	+	38	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/1-listint_len.c
+	*	1700500498	0
+	"	20	0
+	^	20	1
+	.	20	0
+	+	20	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/0-print_listint.c
+	*	1700500462	0
+	"	21	0
+	^	21	1
+	.	21	0
+	+	21	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/0-main.c
+	*	1700500433	0
+	"	32	0
+	^	32	1
+	.	32	0
+	+	32	0
+
+> ~/alx-low_level_programming/0x13-more_singly_linked_lists/lists.h
+	*	1700500396	0
+	"	37	19
+	^	37	20
+	.	37	20
+	+	37	20
+
+> ~/alx-low_level_programming/lists.h
+	*	1700500257	0
+	"	37	19
+	^	37	20
+	.	37	19
+	+	37	19
+
+> ~/alx-low_level_programming/9-insert_nodeint.c
+	*	1700500227	0
+	"	48	0
+	^	48	1
+	.	48	0
+	+	48	0
+
+> ~/alx-low_level_programming/8-sum_listint.c
+	*	1700500197	0
+	"	21	0
+	^	21	1
+	.	21	1
+	+	21	1
+
+> ~/alx-low_level_programming/7-get_nodeint.c
+	*	1700500149	0
+	"	36	0
+	^	36	1
+	.	36	0
+	+	36	0
+
+> ~/alx-low_level_programming/6-pop_listint.c
+	*	1700500110	0
+	"	24	0
+	^	24	1
+	.	24	0
+	+	24	0
+
+> ~/alx-low_level_programming/5-free_listint2.c
+	*	1700500071	0
+	"	20	0
+	^	20	1
+	.	20	0
+	+	20	0
+
+> ~/alx-low_level_programming/4-free_listint.c
+	*	1700500050	0
+	"	18	0
+	^	18	1
+	.	18	1
+	+	18	1
+
+> ~/alx-low_level_programming/3-add_nodeint_end.c
+	*	1700500022	0
+	"	36	0
+	^	36	1
+	.	36	0
+	+	36	0
+
+> ~/alx-low_level_programming/2-add_nodeint.c
+	*	1700499986	0
+	"	31	0
+	^	31	1
+	.	31	0
+	+	31	0
+
+> ~/alx-low_level_programming/103-find_loop.c
+	*	1700499960	0
+	"	34	0
+	^	34	1
+	.	34	0
+	+	34	0
+
+> ~/alx-low_level_programming/102-free_listint_safe.c
+	*	1700499935	0
+	"	40	0
+	^	40	1
+	.	40	0
+	+	40	0
+
+> ~/alx-low_level_programming/101-print_listint_safe.c
+	*	1700499905	0
+	"	29	0
+	^	29	1
+	.	29	0
+	+	29	0
+
+> ~/alx-low_level_programming/100-reverse_listint.c
+	*	1700499882	0
+	"	25	0
+	^	25	1
+	.	25	0
+	+	25	0
+
+> ~/alx-low_level_programming/10-delete_nodeint.c
+	*	1700499819	0
+	"	38	0
+	^	1	0
+	.	1	0
+	+	38	0
 	+	1	0
-	+	1	113
-	+	1	59
-	+	1	179
-	+	1	148
-	+	1	0
-	+	1	152
-	+	1	67
-	+	1	213
-	+	1	120
-	+	1	204
-	+	1	16
-	+	1	130
-	+	1	17
-	+	19	0
 
-> ~/alx-low_level_programming/0x02-functions_nested_loops/main.h
-	*	1697039103	0
-	"	3	0
-	^	3	0
-	.	18	5
-	+	1	105
-	+	1	14
-	+	18	5
+> ~/alx-low_level_programming/1-listint_len.c
+	*	1700499724	0
+	"	23	0
+	^	23	1
+	.	23	0
+	+	23	0
 
-> ~/alx-low_level_programming/0x02-functions_nested_loops/2-print_alphabet_x10.c
-	*	1696958803	0
-	"	26	0
-	^	26	1
-	.	26	0
-	+	26	0
+> ~/alx-low_level_programming/0-print_listint.c
+	*	1700499699	0
+	"	23	0
+	^	23	1
+	.	23	0
+	+	23	0
 
-> ~/alx-low_level_programming/0x02-functions_nested_loops/1-alphabet.c
-	*	1696958697	0
-	"	16	0
-	^	16	1
-	.	19	0
-	+	19	0
-
-> ~/alx-low_level_programming/0x02-functions_nested_loops/0-putchar.c
-	*	1696958022	0
+> ~/alx-low_level_programming/0-main.c
+	*	1700499667	0
 	"	32	0
 	^	32	1
 	.	32	1
 	+	32	1
 
-> ~/alx-system_engineering-devops/0x03-shell_variables_expansions/0-alias
-	*	1696954280	0
-	"	1	0
-	^	1	0
-	.	1	0
-	+	2	14
-	+	1	0
+> ~/0x13-more_singly_linked_lists/lists.h
+	*	1700499201	0
+	"	37	19
+	^	37	20
+	.	37	19
+	+	37	19
 
-> /alx-system_engineering-devops/0x03-shell_variables_expansions/README.md
-	*	1696952006	0
-	"	1	0
-
-> /alx-system_engineering-devops/0x03-shell_variables_expansions/0-alias
-	*	1696951552	0
-	"	2	14
-	^	2	15
-	.	2	14
-	+	2	14
-
-> /alx-low_level_programming/0x00-hello_world/101-quote.c
-	*	1696950284	0
-	"	9	0
-	^	9	0
-	.	9	0
-	+	16	0
-	+	15	0
-	+	14	0
-	+	13	0
-	+	12	0
-	+	10	14
-	+	8	2
-	+	8	0
-	+	7	0
-	+	6	0
-	+	5	0
-	+	2	19
+> ~/0x13-more_singly_linked_lists/9-insert_nodeint.c
+	*	1700499161	0
+	"	48	0
+	^	48	1
+	.	48	0
+	+	1	816
 	+	1	18
-	+	2	0
-	+	11	0
-	+	9	0
-
-> /alx-low_level_programming/0x00-hello_world/100-intel
-	*	1696949886	0
-	"	1	10
-	^	1	11
-	.	2	0
-	+	2	24
-	+	2	0
-
-> /alx-low_level_programming/0x00-hello_world/6-size.c
-	*	1696949227	0
-	"	15	0
-	^	15	1
-	.	15	0
-	+	7	292
-	+	7	308
-	+	9	1
-	+	9	4
-	+	7	109
-	+	8	17
-	+	8	14
-	+	8	3
-	+	7	6
-	+	16	0
-	+	14	56
-	+	13	72
-	+	12	62
-	+	11	53
-	+	10	54
-	+	9	1
-	+	9	0
-	+	8	0
-	+	7	0
-	+	6	0
-	+	5	0
-	+	4	0
-	+	10	0
-	+	11	0
-	+	12	0
-	+	13	0
-	+	14	0
-	+	15	0
-
-> /alx-low_level_programming/0x00-hello_world/4-puts.c
-	*	1696948989	0
-	"	13	0
-	^	13	0
-	.	10	0
-	+	1	18
-	+	1	31
-	+	1	149
-	+	1	43
-	+	1	0
-	+	1	27
-	+	1	178
-	+	1	71
-	+	1	17
-	+	1	177
-	+	1	0
-	+	1	177
-	+	1	176
-	+	1	0
-	+	1	179
-	+	1	178
-	+	1	90
-	+	1	89
-	+	1	75
-	+	1	72
-	+	1	43
-	+	1	40
-	+	1	20
-	+	1	159
-	+	1	179
-	+	1	156
-	+	1	159
-	+	1	158
-	+	1	283
-	+	1	18
-	+	1	240
-	+	1	300
-	+	1	224
-	+	1	287
-	+	1	18
-	+	1	240
-	+	1	194
-	+	9	90
-	+	9	89
-	+	9	70
-	+	9	1
-	+	9	0
-	+	8	0
-	+	7	0
-	+	6	0
-	+	5	0
-	+	4	0
-	+	2	0
-	+	9	90
-	+	1	8
-	+	7	3
-	+	9	90
-	+	5	76
-	+	8	0
-	+	14	0
-	+	13	0
-	+	9	70
-	+	11	0
-	+	10	0
-
-> /alx-low_level_programming/0x00-hello_world/4-put
-	*	1696948761	0
-	"	1	0
-
-> /alx-low_level_programming/0x00-hello_world/5-printf.c
-	*	1696948625	0
-	"	12	0
-	^	12	1
-	.	12	0
-	+	13	1
-	+	14	0
-	+	13	0
-	+	10	69
-	+	9	1
-	+	9	0
-	+	8	0
-	+	7	0
-	+	6	0
-	+	5	0
-	+	4	0
-	+	12	0
-	+	10	0
-	+	11	0
-	+	12	0
-
-> /alx-system_engineering-devops/.git/MERGE_MSG
-	*	1696898796	0
-	"	1	0
-
-> /alx-low_level_programming/0x00-hello_world/6-sixe.c
-	*	1696871080	0
-	"	3	2
-	^	3	3
-	.	4	0
-	+	16	0
-	+	15	0
-	+	14	0
-	+	13	0
-	+	12	0
-	+	11	0
-	+	10	0
-	+	9	0
-	+	8	0
-	+	7	0
-	+	6	0
-	+	5	0
-	+	4	0
-
-> /alx-low_level_programming/0x00-hello_world/3-name
-	*	1696863139	0
-	"	2	19
-	^	2	20
-	.	2	19
-	+	2	19
-
-> /alx-low_level_programming/0x00-hello_world/2-assembler
-	*	1696863055	0
-	"	2	12
-	^	2	13
-	.	2	12
-	+	1	10
-	+	2	0
-	+	2	12
-
-> /alx-low_level_programming/0x00-hello_world/1-compiler
-	*	1696862895	0
-	"	2	12
-	^	2	13
-	.	2	12
-	+	2	12
+	+	48	0
